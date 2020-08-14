@@ -1,0 +1,17 @@
+/dist/
+/
+*.log
+node_modules
+
+
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
+modules/.vscode
+
+npm-debug.log
+
+.build-analytics
+
+# rollup-test output
+/modules/rollup-test/dist/
